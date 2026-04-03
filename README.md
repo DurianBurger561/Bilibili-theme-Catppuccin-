@@ -10,9 +10,9 @@ This is an independent community project and is **not an official Catppuccin por
   <a href="#installation">
     <img src="https://img.shields.io/badge/INSTALL-f9e2af?style=for-the-badge&logo=github&logoColor=1e1e2e&labelColor=fab387" alt="Install" />
   </a>
-  <a href="https://github.com/openstyles/stylus">
-    <img src="https://img.shields.io/badge/STYLUS-cba6f7?style=for-the-badge&logo=firefoxbrowser&logoColor=1e1e2e&labelColor=b4befe" alt="Stylus" />
-  </a>
+  <a href="https://github.com/DurianBurger561/Bilibili-theme-Catppuccin-/raw/main/catppuccin.user.less">
+  <img src="https://img.shields.io/badge/INSTALL%20IN-STYLUS-cba6f7?style=for-the-badge&labelColor=b4befe&logoColor=1e1e2e" alt="Install in Stylus" />
+   </a>
   <a href="#preview">
     <img src="https://img.shields.io/badge/PREVIEW-a6e3a1?style=for-the-badge&logo=googlechrome&logoColor=1e1e2e&labelColor=94e2d5" alt="Preview" />
   </a>
