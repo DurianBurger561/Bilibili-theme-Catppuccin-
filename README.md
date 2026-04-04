@@ -1,5 +1,6 @@
 <div align="center">
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3a4132c0-0157-4a95-a2bb-86f449f05ebd" />
+<img width="150" height="100" alt="C04A7C31-60A6-44CA-B85C-1FF5F638DC26" src="https://github.com/user-attachments/assets/932011d1-236b-49ea-844e-13dad2e1c2dc" />
 
 # Bilibili Catppuccin Theme
 
