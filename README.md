@@ -37,21 +37,20 @@ This is an independent community project and is **not an official Catppuccin por
 # 安装指导
 下载谷歌插件 stylus， 点击本页面上放的 stylus install完成安装。
 
-
 # Bilibili Catppuccin Theme
 
-A Catppuccin-inspired custom theme for the Bilibili website.
+A custom theme for the Bilibili website built with the official Catppuccin palette.
 
 This is an unofficial community project. It is not affiliated with, endorsed by, or sponsored by Bilibili or Catppuccin.
 
-This project includes or is based on Catppuccin, licensed under the MIT License. “Bilibili” and related names, logos, and marks are trademarks or brand assets of their respective owners.
+This project uses the official Catppuccin palette and includes or is based on Catppuccin, licensed under the MIT License. “Bilibili” and related names, logos, and marks are trademarks or brand assets of their respective owners.
 
 ---
 
 # Bilibili Catppuccin 主题
 
-这是一个受 Catppuccin 启发、适用于 Bilibili 网页版的自定义主题。
+这是一个适用于 Bilibili 网页版的自定义主题，使用了 Catppuccin 官方配色。
 
 本项目为非官方社区项目，与 Bilibili 或 Catppuccin 没有关联，也未获得其认可或赞助。
 
-本项目包含或基于 Catppuccin 的内容，相关部分依据 MIT License 授权。“Bilibili”及其相关名称、标识和商标均归其各自权利人所有。
+本项目使用了 Catppuccin 官方配色，并包含或基于 Catppuccin 的内容，相关部分依据 MIT License 授权。“Bilibili”及其相关名称、标识和商标均归其各自权利人所有。
