@@ -54,3 +54,14 @@ This project uses the official Catppuccin palette and includes or is based on Ca
 本项目为非官方社区项目，与 Bilibili 或 Catppuccin 没有关联，也未获得其认可或赞助。
 
 本项目使用了 Catppuccin 官方配色，并包含或基于 Catppuccin 的内容，相关部分依据 MIT License 授权。“Bilibili”及其相关名称、标识和商标均归其各自权利人所有。
+
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=DurianBurger561%2FBilibili-theme-Catppuccin-&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=DurianBurger561/Bilibili-theme-Catppuccin-&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=DurianBurger561/Bilibili-theme-Catppuccin-&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=DurianBurger561/Bilibili-theme-Catppuccin-&type=date&legend=top-left" />
+ </picture>
+</a>
